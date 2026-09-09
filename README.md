@@ -4,7 +4,7 @@ Material didático em HTML, feito para ser lido no navegador, sobre os fundament
 
 ## Conteúdo do arquivo
 
-[`o-que-e-java.html`](./o-que-e-java.html)
+[`o-que-e-java-e-para-que-serve.html`](./o-que-e-java-e-para-que-serve.html)
 
 O material cobre:
 
@@ -17,7 +17,7 @@ O material cobre:
 
 ## Como usar
 
-Basta abrir o arquivo `o-que-e-java.html` diretamente no navegador. Não é necessário nenhuma instalação ou servidor.
+Basta acessar o link `https://gisely-dev.github.io/Aprendendo-Java02/` diretamente no navegador. Não é necessário nenhuma instalação ou servidor.
 
 ## Sobre
 
