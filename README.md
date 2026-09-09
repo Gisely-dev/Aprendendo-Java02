@@ -4,7 +4,7 @@ Material didático em HTML, feito para ser lido no navegador, sobre os fundament
 
 ## Conteúdo do arquivo
 
-[`o-que-e-java-e-para-que-serve.html`](./o-que-e-java-e-para-que-serve.html)
+[`index.html`](./index.html)
 
 O material cobre:
 
